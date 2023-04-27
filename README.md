@@ -1,10 +1,10 @@
 # Java_WeatherAPI
     Java application to query a city weather.
 
-    The API used is from Weather API.
-    //Get your key here:
+The API used is from Weather API.
+//Get your key here:
 
-    https://www.weatherapi.com/my/
+https://www.weatherapi.com/my/
 
 # About
     This project was developed as a need of mine to learn to developed and handle HTTP requisitions with Java.
